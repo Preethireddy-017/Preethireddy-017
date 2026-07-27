@@ -7,24 +7,30 @@ Show Image Show Image Show Image Show Image
 
 🚀 Motivated Full Stack Developer and MCA candidate with a strong foundation in building efficient, scalable, and user-centric web applications. Skilled at translating complex requirements into clean, maintainable code across both frontend and backend layers. Committed to continuous learning, with a keen eye for thoughtful UI/UX design. 💡
 
-<table> <tr> <td width="50%" valign="top">
-
-🎓  Education Master of Computer Applications (MCA)
-
-📍  Location Hyderabad, India
-
-</td> <td width="50%" valign="top">
-
-🎯  Career Focus Full Stack · Frontend · Backend
-
-🌱  Interests Web Development · UI/UX Design
-
-</td> </tr> </table>
-
 🤝  Open to: Open-source contributions  ·  Freelance projects  ·  Research collaborations  ·  Startup opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&width=100%25" width="100%"/>
-🛠️  Technical Skills
+🎓  Education
+
+Master of Computer Applications (MCA)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&width=100%25" width="100%"/>
+📍  Location
+
+Hyderabad, India
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&width=100%25" width="100%"/>
+🎯  Career Focus
+
+Full Stack · Frontend · Backend
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&width=100%25" width="100%"/>
+🌱  Interests
+
+Web Development · UI/UX Design
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&width=100%25" width="100%"/>
+🛠️  Tech Stack
 <div align="center">
 
 💻 Languages <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
