@@ -10,7 +10,7 @@
   <a href="https://github.com/Preethireddy-017">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/preethi-reddy-vemireddy-93b9393a7">
+  <a href="https://www.linkedin.com/in/preethi-reddy-vemireddy-93b9393a7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:"preethireddyvemireddy@gmail.com">
@@ -221,11 +221,11 @@ I’m open to **full-time opportunities, internships, and software development c
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="preethireddyvemireddy@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/preethi-reddy-vemireddy-93b9393a7">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
