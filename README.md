@@ -82,7 +82,7 @@ A simple and user-friendly web application developed to organize and manage stud
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-<a href="YOUR_STUDENT_PROJECT_REPOSITORY_LINK">📂 View Source Code</a>
+<a href="https://github.com/Preethireddy-017/Student-management-system">📂 View Source Code</a>
 
 ---
 
