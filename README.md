@@ -100,6 +100,8 @@ A Python and MySQL-based inventory management application designed to help maint
 - Perform database operations using Python
 - Improve inventory tracking and organization
 
+#### Description
+
 #### 🛠️ Technologies Used
 
 <p>
@@ -125,13 +127,15 @@ A console-based Python application that simulates the movie ticket booking proce
 - Provide a simple menu-driven experience
 - Demonstrate Python fundamentals and logical problem-solving
 
+#### Description
+
 #### 🛠️ Technologies Used
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-<a href="YOUR_MOVIE_PROJECT_REPOSITORY_LINK">📂 View Source Code</a>
+<a href="https://github.com/Preethireddy-017/Movie-ticket-booking-system">📂 View Source Code</a>
 
 ---
 
