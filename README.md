@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views">
-
 </div>
 
 ---
@@ -33,7 +30,7 @@ I’m a passionate **Full Stack Developer and MCA candidate** who enjoys creatin
 - 🧠 Passionate about solving real-world problems through software
 - 🌱 Currently strengthening my skills in full-stack development
 - 🤝 Open to full-time roles, internships, and collaborations
-- 📍 Kukatpally, Telangana, India
+- 📍Hyderabad, Telangana, India
 
 ---
 
