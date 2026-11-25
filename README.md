@@ -136,6 +136,8 @@ developer = Developer()
 
 **Tech:** Python
 
+<a href="https://github.com/Preethireddy-017/Movie-ticket-booking-system">View Repository</a>
+
 </td>
 <td width="50%">
 
