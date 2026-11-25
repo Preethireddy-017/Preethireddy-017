@@ -192,15 +192,17 @@ developer = Developer()
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
 
-## 🐍 CONTRIBUTION SNAKE
+<!-- GITHUB CONTRIBUTIONS -->
+
+## 📈 GITHUB CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Preethireddy-017/Preethireddy-017/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Preethireddy-017&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
+
 
 ---
 
