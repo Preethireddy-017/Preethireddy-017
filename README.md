@@ -148,6 +148,7 @@ developer = Developer()
 - JavaScript functionality
 
 **Tech:** HTML, CSS, JavaScript
+
 <a href="https://github.com/Preethireddy-017/Student-management-system">View Repository</a>
 
 </td>
