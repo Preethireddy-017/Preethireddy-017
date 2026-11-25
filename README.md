@@ -1,21 +1,24 @@
 
-<!-- ================= HERO SECTION ================= -->
+<!-- PREMIUM DEVELOPER HERO -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0F766E,100:06B6D4&text=PREETHI%20REDDY&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+React+%7C+MySQL;Building+Real-World+Web+Applications;Always+Learning+%7C+Always+Building" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:020617,30:0B2545,65:075985,100:164E63&text=PREETHI%20REDDY&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descColor=67E8F9&descSize=21&descAlignY=68&animation=fadeIn" width="100%" alt="Preethi Reddy - Python Full Stack Developer"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Developing+Modern+Web+Applications;Python+%7C+Django+%7C+React+%7C+MySQL;Passionate+About+Clean+and+Efficient+Code;Learning+%7C+Building+%7C+Growing" />
+
+<br/><br/>
+
 <a href="https://github.com/Preethireddy-017">
-<img src="https://img.shields.io/badge/GitHub-Preethireddy--017-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PREETHIREDDY--017-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Preethireddy-017&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Preethireddy-017&style=for-the-badge&color=0369A1&label=PROFILE+VISITORS"/>
 
 </div>
+
 
 ---
 
